@@ -1,0 +1,24 @@
+{
+  "name": "jngl",
+  "displayName": "jngl",
+  "repository": {
+    "url": "https://github.com/jrnxf/jngl"
+  },
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jngl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jngl-color-theme.json"
+      }
+    ]
+  }
+}
